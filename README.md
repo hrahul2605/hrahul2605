@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="header" width="100%">
+<img src=https://raw.githubusercontent.com/hrahul2605/hrahul2605/master/assets/header.svg alt="header" width="100%">
 
 <hr/>
 
@@ -30,7 +30,7 @@
 - :art: Some experience in **ReactJS, React-Native, JavaScript, TypeScript**
 - :zap: Interested in **Web & Mobile App Development , Competitve Coding & Cinematography**
 - :mailbox: Feel free to contact me at **hrahul2605@gmail.com for collaboration in any Projects.**
-- <img src=assets/linkedin.svg alt=vim width="20" height="15" align="center" /> <a href=https://linkedin.com/in/hrahul2605>_You can also contact at linkedin._</a>
+- <img src=https://raw.githubusercontent.com/hrahul2605/hrahul2605/master/assets/linkedin.svg alt=vim width="20" height="15" align="center" /> <a href=https://linkedin.com/in/hrahul2605>_You can also contact at linkedin._</a>
 
 #
 
