@@ -35,7 +35,7 @@
 #
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrahul2605&&show_icons=true&title_color=FF5733&icon_color=FF5733&text_color=c70039&bg_color=581845" width="75%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hrahul2605&&show_icons=true&title_color=FF5733&icon_color=FF5733&text_color=c70039&bg_color=581845&count_private=true" width="75%"/>
 </p>
 
 #
