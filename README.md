@@ -1,6 +1,5 @@
-<img src=https://raw.githubusercontent.com/hrahul2605/hrahul2605/master/assets/header.svg alt="header" width="100%">
+<h2 align="center">Hey, I'm Rahul. :wave:</h2>
 
-<hr/>
 
 <p align="center">
 <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
