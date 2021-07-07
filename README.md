@@ -1,6 +1,6 @@
 <h1>Hey, I'm Rahul. :wave:</h1>
 
-**Straight outta Barrackpore, 20yo developer.** :jack_o_lantern:
+**Straight outta Barrackpore, 21yo developer.** :jack_o_lantern:
 
 
 - 👨‍🎓 Currently a Sophomore at **Dept. of Computer Science & Technology, IIEST, Shibpur**
