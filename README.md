@@ -7,7 +7,6 @@
 - :art: Some experience in **ReactJS, React-Native, JavaScript, TypeScript**
 - :mailbox: Feel free to contact me at **hrahul2605@gmail.com**.
 - <img src=https://raw.githubusercontent.com/hrahul2605/hrahul2605/master/assets/linkedin.svg alt=vim width="20" height="15" align="center" /> <a href=https://linkedin.com/in/hrahul2605>_Connect with me on Linkedin._</a>
-- :page_facing_up: Find my resume [here](https://drive.google.com/file/d/19hhzblvujAlcQsPeIgCCz-5wJc25XA74/view?usp=sharing)
 - :globe_with_meridians: Find me on the internet by _**hrahul2605**_
 <hr>
 
